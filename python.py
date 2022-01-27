@@ -1,3 +1,6 @@
-# comment
+print("Hello world")
 
-# second comment just testing
+def function1():
+    print("testing")
+
+function1()
